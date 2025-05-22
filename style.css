@@ -2,3 +2,15 @@ html {
   height: 100%;
   width: 100%;
 }
+
+#fadetext{
+  opacity: 0.5;
+}
+
+#k4rhelp{
+  color: #ff0000;
+}
+
+#k4ror{
+  font-size: 0.5em
+}
